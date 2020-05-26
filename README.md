@@ -2,7 +2,10 @@
 
 <!-- Altere a Flag abaixo com sua URL do Travis -->
 [![Build Status](https://travis-ci.com/grapiuna/DevOpsLab-HelloWorld.svg?branch=master)](https://travis-ci.com/grapiuna/DevOpsLab-HelloWorld)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 029d23c76d0a9efdf7aacabf4a6e80176ebe175b
 ## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
 
 
